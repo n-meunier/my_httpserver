@@ -1,2 +1,5 @@
 # my_httpserver
-A basic http server
+
+A basic HTTP server.
+
+Contains a script to generate an HTTP server and an other script to run an HTTP client.
